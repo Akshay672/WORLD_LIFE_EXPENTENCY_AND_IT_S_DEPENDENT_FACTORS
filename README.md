@@ -90,3 +90,11 @@ Provide project summary and conclusion
 6. The proportion of Hepatitis-B immunization in developed countries and developing countries is same.
 
 7. The alcohol level consumption rate is not dependent on country status.
+
+
+
+<h4>DATASET FILE LINK : <a href='https://github.com/Akshay672/WORLD_LIFE_EXPENTENCY_AND_IT_S_DEPENDENT_FACTORS/blob/main/Life%20Expectancy%20Data.csv'>Life Expectancy Data.csv</a></h4>
+
+
+<h4>CASE STUDY FILE LINK : <a href='https://github.com/Akshay672/WORLD_LIFE_EXPENTENCY_AND_IT_S_DEPENDENT_FACTORS/blob/main/WORLD_LIFE_EXPENTENCY_AND_IT_S_DEPENDENT_FACTORS.ipynb'>WORLD LIFE EXPENTENCY AND IT'S DEPENDENT FACTORS</a></h4>
+
